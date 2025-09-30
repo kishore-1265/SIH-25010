@@ -57,6 +57,12 @@ Track market prices and notify farmers about the best time to sell produce.
 
 Ensure offline access with periodic syncing to help farmers in low-connectivity regions.
 
+
+![WhatsApp Image 2025-09-30 at 11 39 57_18fd3ce0](https://github.com/user-attachments/assets/02adc0c0-9d13-489c-a522-7c892f1c8857)
+
+
+
+
 ## Technical Approach
 Data Collection & Integration:
 
